@@ -8,3 +8,6 @@ How to use:
 4. Double click on the `main.exe`
 5. Make sure to only input numbers in the input fields
 6. Go make the blins comrade
+
+Boris Blinmaker:
+https://www.youtube.com/watch?v=FMIZEfjYmtM&vl=en
